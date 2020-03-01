@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b31ed1b-58a5-4399-8b6b-ed45340ad86d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qlearning/algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qlearning/initialize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Q-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Q-Learning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -77,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583054934745</updated>
-      <workItem from="1583054938990" duration="7888000" />
+      <workItem from="1583054938990" duration="8236000" />
     </task>
     <servers />
   </component>
@@ -93,9 +88,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="473" y="251" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1583055372298" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1583064092659">
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1583065292746">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1583064092659" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1583065292746" />
   </component>
 </project>
